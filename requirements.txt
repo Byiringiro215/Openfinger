@@ -1,0 +1,10 @@
+# Core fingerprint pipeline
+numpy>=1.26
+opencv-python>=4.8.0
+scipy>=1.13
+scikit-image>=0.22.0
+Pillow>=10.0.0
+
+# Optional: DINOv2 embedding matcher (pipeline/embedding.py)
+# transformers>=4.40
+# torch>=2.2

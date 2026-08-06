@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Enrolled templates / captured fingerprints (may contain personal data)
+gallery/
+captures/
+*.pkl
+capture_*.png
+
+# Logs
+*.log
+fingerprint_log.txt
+
+# Editor / OS / tooling
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
