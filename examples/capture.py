@@ -6,6 +6,9 @@ Usage:
 
 Produces: captures/finger_0.png, captures/finger_1.png, ...
 """
+import utils.http_session
+import utils.transport
+import utils.session
 import argparse
 import logging
 import sys
