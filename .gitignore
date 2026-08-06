@@ -18,8 +18,9 @@ capture_*.png
 fingerprint_log.txt
 
 # Editor / OS / tooling
-.vscode/
 .idea/
 .claude/
 .DS_Store
 Thumbs.db
+config.bat
+node_modules
